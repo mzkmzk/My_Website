@@ -1,0 +1,10 @@
+//水平垂直居中, 需要上级为relative
+@mixin width_height_ctener($height){
+  position: absolute;
+  height: $height;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

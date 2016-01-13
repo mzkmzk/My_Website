@@ -1,0 +1,9 @@
+#content{
+
+  @include width_height_ctener(30%);
+  button{
+    min-width: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+}
