@@ -8,3 +8,7 @@ document.querySelector('.menu .bt').addEventListener('click',function(){
     $content.classList.toggle('slideOutDown');
     $content.classList.toggle('slideInDown');
 },false);
+
+window.onload = function(){
+    document.querySelector('.background-image').setAttribute ('style','background: no-repeat center top url("Image/Index/index.jpg") ;opacity: 1;');
+}

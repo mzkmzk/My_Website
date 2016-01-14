@@ -4,13 +4,19 @@
         <title>K</title>
         <link href="css/K.css" rel="stylesheet">
     </head>
-    <body>
+    <body  class="">
     <!--<img style="width: 100% ;position: absolute" src="../public/Image/Index/index.webp">-->
     <header>
         <div class="menu">
             <button class="bt">Menu</button>
         </div>
     </header>
+    <section id="background">
+        <div class="background-image " >
+
+
+        </div>
+    </section>
     <section id="content" >
         <div  class="container text-center show-button animated slideOutDown"  >
             <div class="col-sm-4 "><button>GitBook</button></div>
