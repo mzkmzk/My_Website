@@ -8,3 +8,13 @@
   left: 0;
   right: 0;
 }
+
+@mixin width_ctener($height,$top){
+  position: absolute;
+  height: $height;
+  margin: auto;
+  top: $top;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

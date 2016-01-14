@@ -11,8 +11,8 @@
             <button class="bt">Menu</button>
         </div>
     </header>
-    <section id="content">
-        <div class="container text-center">
+    <section id="content" >
+        <div  class="container text-center show-button animated slideOutDown"  >
             <div class="col-sm-4 "><button>GitBook</button></div>
             <div class="col-sm-4"><button>Github</button></div>
             <div class="col-sm-4"><button>New_Blog</button></div>
@@ -22,5 +22,6 @@
 
         </div>
     </section>
+    <script src="js/K.js"></script>
     </body>
 </html>
