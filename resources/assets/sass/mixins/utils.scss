@@ -20,10 +20,10 @@
 }
 
 @mixin default_transition() {
-  -webkit-transition: all 5s  ease-out ;
-  -moz-transition: all 5s ease-out ;
-  -ms-transition: all 5s ease-out ;
-  -o-transition: all 5s ease-out ;
+  -webkit-transition: all 1.5s  ease-out ;
+  -moz-transition: all 1.5s ease-out ;
+  -ms-transition: all 1.5s ease-out ;
+  -o-transition: all 1.5s ease-out ;
 
 
 }

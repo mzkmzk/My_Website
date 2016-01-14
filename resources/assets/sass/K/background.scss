@@ -1,0 +1,16 @@
+#background{
+  .background-image{
+    //@include default_transition();
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    //@media (max-height: 926px ) and (max-width: $screen-sm-min ) {
+    //  background: no-repeat center top url("../Image/Index/index.jpg");
+    //}
+    //background: no-repeat center top url("../Image/Index/index.webp");
+    background: no-repeat center top url("../Image/Index/index.jpg");
+
+    z-index: -10;
+  }
+}
