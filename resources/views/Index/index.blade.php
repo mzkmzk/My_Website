@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
         <title>K</title>
         <link href="css/K.css" rel="stylesheet">
+
     </head>
     <body  class="">
     <!--<img style="width: 100% ;position: absolute" src="../public/Image/Index/index.webp">-->
