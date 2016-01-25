@@ -1,15 +1,19 @@
 #content{
-  @media (max-height: 926px ) and (max-width: $screen-sm-min ) {
-    @include width_height_ctener(30%);
-  }
-  @include width_ctener(30%,35%);
-  .show-button{
+  .show-button {
     display: none;
-    button{
+    button {
       min-width: 100px;
       margin-top: 15px;
       margin-bottom: 15px;
     }
+  }
+
+  position: absolute;
+  top: 10%;
+  left: 0;
+  right: 0;
+  @media  (min-width: $screen-sm-min ) {
+    @include width_ctener(30%, 35%);
   }
 
 }
