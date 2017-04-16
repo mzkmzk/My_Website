@@ -2,9 +2,9 @@
 <html>
     <head>
         <meta name="viewport" content="width=device-width,initial-scale=1">
-        <title>K</title>
+        <title>2K</title>
         <link href="css/K.css" rel="stylesheet">
-
+	<script></script>
     </head>
     <body  >
     <header>
